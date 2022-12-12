@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PianoGuitar
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning HTML, Css
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning HTML, Css, Java Script
+- 💞️ I’m looking to collaborate on ... Python
 - 📫 How to reach me ...
 
 <!---
